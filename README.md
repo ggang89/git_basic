@@ -50,3 +50,5 @@ If you wish to set tracking information for this branch you can do so with:
 
     그런데 이유를 모르겠다.
     다른 브랜치들은 main으로 다 생성되었는데, 왜 이것만 이런것인지
+
+?? 브랜치가 main으로 바껴서 추가한 내용은 이제 main에 저장되는 것인가
